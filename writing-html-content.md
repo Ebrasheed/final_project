@@ -1,6 +1,14 @@
-# Writing the HTML Content
+# Step 3: Writing the HTML Content
 
-Open the `index.html` file and add the following content:
+Once you’ve created the HTML file, you’ll need add to content.
+
+---
+
+[Proceed to Step 4: Viewing the Webpage](viewing-the-webpage.md)
+
+---
+
+Add this to your `index.html` file:
 
 ```html
 <!DOCTYPE html>
