@@ -13,8 +13,7 @@
 1. [Getting Started](getting-started.md)
 2. [Creating the HTML File](creating-html-file.md)
 3. [Writing the HTML Content](writing-html-content.md)
-4. [Adding More Features](adding-more-features.md)
-5. [Viewing the Webpage](viewing-the-webpage.md)
+4. [Viewing the Webpage](viewing-the-webpage.md)
 
 ---
 
