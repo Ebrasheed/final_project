@@ -10,55 +10,23 @@
 
 ## Contents
 
-1. [Step 1: Getting Started](#step-1-getting-started)
-2. [Step 2: Creating the HTML File](#step-2-creating-the-html-file)
-3. [Step 3: Writing the HTML Content](#step-3-writing-the-html-content)
-4. [Step 4: Adding More Features](#step-4-adding-more-features)
-5. [Step 5: Viewing the Webpage](#step-5-viewing-the-webpage)
+1. [Getting Started](getting-started.md)
+2. [Creating the HTML File](creating-html-file.md)
+3. [Writing the HTML Content](writing-html-content.md)
+4. [Adding More Features](adding-more-features.md)
+5. [Viewing the Webpage](viewing-the-webpage.md)
 
 ---
 
-## Step 1: Getting Started
+## How to Use This Tutorial
 
-Before we begin, ensure you have the following:
-- A text editor (e.g., Notepad++, VS Code, or Sublime Text)
-- A web browser (e.g., Chrome, Firefox, or Edge)
-
-[Next: Step 2 →](#step-2-creating-the-html-file)
+Click on the links above to navigate to each step. Each file provides clear instructions for completing that part of the tutorial.
 
 ---
 
-## Step 2: Creating the HTML File
+## What's Next?
 
-1. Open your text editor.
-2. Create a new file and save it as `index.html`.
+- Experiment by adding more information or customizing the styles.
+- Share your webpage with friends by hosting it on GitHub Pages or similar platforms.
 
-[← Back: Step 1](#step-1-getting-started) | [Next: Step 3 →](#step-3-writing-the-html-content)
-
----
-
-## Step 3: Writing the HTML Content
-
-Open the `index.html` file and add the following basic content:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Darrel Truman</title>
-</head>
-<body>
-    <h1>Darrel Truman</h1>
-    <h2>Student at Truman University</h2>
-    <p><strong>Major:</strong> Computer Science</p>
-    <p><strong>Year:</strong> Junior</p>
-    <p><strong>Clubs:</strong></p>
-    <ul>
-        <li>Programming Club</li>
-        <li>Basketball Enthusiasts</li>
-        <li>Environmental Action Group</li>
-    </ul>
-</body>
-</html>
+Happy coding!
